@@ -1,2 +1,2 @@
 # projects
-project repo
+project repo for git cpmmands demonstration
